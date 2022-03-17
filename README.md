@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lavakush Biyani</h1>
 <h3 align="center">A passionate Full-stack Developer</h3>
 
+
+[![Banner.jpg](https://i.postimg.cc/prRsRfmg/Banner.jpg)](https://postimg.cc/WFYG7J6n)
 <p align="left"> <a href="https://twitter.com/lavkushbiyani1" target="blank"><img src="https://img.shields.io/twitter/follow/lavkushbiyani1?logo=twitter&style=for-the-badge" alt="lavkushbiyani1" /></a> </p>
 
 - 🔭 I’m currently working on **Node.js**
