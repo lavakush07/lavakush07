@@ -5,17 +5,9 @@
 [![Banner.jpg](https://i.postimg.cc/prRsRfmg/Banner.jpg)](https://twitter.com/lavkushbiyani1/header_photo)
 <p align="left"> <a href="https://twitter.com/lavkushbiyani1" target="blank"><img src="https://img.shields.io/twitter/follow/lavkushbiyani1?logo=twitter&style=for-the-badge" alt="lavkushbiyani1" /></a> </p>
 
-- 🔭 I’m currently working on **Node.js**
+[
 
-- 🌱 I’m currently learning **WEB3** and **KUBERNETES**
-
-- 👯 I’m looking to collaborate on **Web development projects**
-
-- 💬 Ask me about **C++ and JavaScript**
-
-- 📫 How to reach me: **19311A1904@sreenidhi.edu.in**
-
-- ⚡ Fun fact: **Learner, Blog writer, Geek**
+[![Linkedin Badge](https://img.shields.io/badge/-Lavakush Biyani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lavkush-biyani-07/)](https://www.linkedin.com/in/lavkush-biyani-07/)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
