@@ -5,7 +5,7 @@
 [![Banner.jpg](https://i.postimg.cc/prRsRfmg/Banner.jpg)](https://twitter.com/lavkushbiyani1/header_photo)
 <p align="left"> <a href="https://twitter.com/lavkushbiyani1" target="blank"><img src="https://img.shields.io/twitter/follow/lavkushbiyani1?logo=twitter&style=for-the-badge" alt="lavkushbiyani1" /></a> </p>
 
-[
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lavakush Biyani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lavkush-biyani-07/)](https://www.linkedin.com/in/lavkush-biyani-07/)
 
