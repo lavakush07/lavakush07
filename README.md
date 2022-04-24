@@ -52,6 +52,8 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white&style=for-the-badge)
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?logo=gitpod&logoColor=white&style=for-the-badge)
 
+### Devops & Cloud tools :
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ## 💰 Support
 <p>
 <a href='https://www.buymeacoffee.com/lavakushbiyani' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
