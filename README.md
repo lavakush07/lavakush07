@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack Web-Developer, DevOps explorer and an Opensource Contributor</h3>
 
 
-[![Banner.jpg](https://i.postimg.cc/prRsRfmg/Banner.jpg)](https://twitter.com/lavkushbiyani1/header_photo)
+
 
 
 ## Connect With Me 🚀:
