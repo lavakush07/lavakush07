@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋🏻 I am Lavakush Biyani! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /></h1>
-<h3 align="center">A passionate Full-stack Web-Developer, DevOps explorer and an Opensource Contributor</h3>
+<h3 align="center">A passionate Full-stack Web-Developer, DevOps explorer, Go lang Developer and an Opensource Contributor</h3>
 
 
 
