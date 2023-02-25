@@ -39,8 +39,6 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white&style=for-the-badge)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Three.js](https://img.shields.io/badge/threejs-black?logo=three.js&logoColor=white&style=for-the-badge)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white&style=for-the-badge)
 
 ### Databases & Version Control :
 
